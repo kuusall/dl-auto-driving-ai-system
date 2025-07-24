@@ -1,10 +1,9 @@
-## 🚗 Swayatri: Deep Learning-Powered Autonomous Driving System
-
-**Swayatri** is a collection of deep learning and computer vision-based modules designed to simulate and build core functionalities of an autonomous driving system. The project focuses on providing a reliable and intelligent framework for autonomous vehicle navigation through perception, planning, and control.
+## Deep Learning-Powered Autonomous Driving System
+A collection of deep learning and computer vision-based modules designed to simulate and build core functionalities of an autonomous driving system. The project focuses on providing a reliable and intelligent framework for autonomous vehicle navigation through perception, planning, and control.
 
 ### 🔍 Objectives
 
-The main goal of **Swayatri** is to explore and implement real-world autonomous vehicle concepts using modern AI and deep learning techniques. This system is broken into modular projects, each addressing a specific challenge faced by self-driving cars.
+The main goal of is to explore and implement real-world autonomous vehicle concepts using modern AI and deep learning techniques. This system is broken into modular projects, each addressing a specific challenge faced by self-driving cars.
 
 ---
 
